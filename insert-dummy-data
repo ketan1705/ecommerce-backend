@@ -1,0 +1,11 @@
+INSERT INTO product (id, name, description, brand, price, category, release_date, product_available, stock_quantity) VALUES
+(1, 'MacBook Pro 16"', 'The most powerful MacBook Pro ever.', 'Apple', 2499.00, 'Electronics', '2023-10-30', true, 85),
+(2, 'Sony WH-1000XM5', 'Industry-leading noise canceling headphones.', 'Sony', 399.99, 'Electronics', '2022-05-20', true, 150),
+(3, 'Nike Air Force 1 ''07', 'The radiance lives on in the b-ball original.', 'Nike', 110.00, 'Footwear', '1982-01-01', true, 300),
+(4, 'The North Face Borealis Backpack', 'A versatile backpack for work or play.', 'The North Face', 99.00, 'Accessories', '2021-08-15', true, 200),
+(5, 'Levi''s 501 Original Fit Jeans', 'The original blue jean since 1873.', 'Levi''s', 79.50, 'Apparel', '1873-05-20', true, 500),
+(6, 'Samsung Galaxy S24 Ultra', 'The latest flagship smartphone from Samsung.', 'Samsung', 1299.99, 'Electronics', '2024-01-17', true, 250),
+(7, 'Atomic Habits by James Clear', 'A supremely practical and useful book.', 'Penguin Books', 27.00, 'Books', '2018-10-16', true, 1200),
+(8, 'Yeti Rambler 20 oz Tumbler', 'Keeps your drinks ice cold or piping hot.', 'Yeti', 35.00, 'Homeware', '2014-01-01', true, 600),
+(9, 'Garmin Forerunner 265', 'GPS running smartwatch with a bright AMOLED display.', 'Garmin', 449.99, 'Electronics', '2023-03-02', true, 180),
+(10, 'Patagonia Better Sweater Jacket', 'A warm, low-bulk full-zip jacket.', 'Patagonia', 139.00, 'Apparel', '2012-09-01', false, 0);
